@@ -1,0 +1,15 @@
+{
+  "name": "com.fl.mox.framework",
+  "version": "0.1.4",
+  "displayName": "FL MoxFramework",
+  "description": "Synchronisation Framework for Mox DS",
+  "unity": "6000.3",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "14.0.11",
+    "com.unity.visualscripting": "1.9.4",
+    "jp.keijiro.klak.spout": "2.0.3",
+    "com.unity.nuget.newtonsoft-json": "3.2.2"
+  },
+  "documentationUrl": "https://github.com/ArsElectronicaFuturelab/mozXR-Unity-Framework/blob/main/README.md",
+  "licensesUrl": "https://github.com/ArsElectronicaFuturelab/mozXR-Unity-Framework/blob/main/LICENSE"
+}
